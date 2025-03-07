@@ -5,9 +5,8 @@
 
 ## Использование
 1. Запустите скрипт `json_parser.py`.
-2. Передайте путь к JSON-файлу в качестве аргумента.
-3. Программа выведет содержимое JSON.
+2. Программа выведет содержимое JSON.
 
 ## Пример
 ```bash
-python json_parser.py example.json
+python json_parser.py
